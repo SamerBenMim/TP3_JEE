@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Formulaire</title>
+<body>
+<form action="FirstServlet"  method="get">
+<input type="text" id="ligne" name="nbLig">Ligne
+<input type="text" id="colone" name="nbCol">Colone
+<input type="submit" id="submit" name="ok">Submit
+</form>
+</body>
+</head>
+<body>
+
+</body>
+</html>

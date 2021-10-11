@@ -1,0 +1,14 @@
+127.0.0.1 - - [10/Oct/2021:11:29:35 +0100] "GET / HTTP/1.1" 404 681
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:11:29:36 +0100] "GET /TP1/formulaire.html HTTP/1.1" 200 993
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:11:31:32 +0100] "GET /TP1/ServletTraitement?nom=&prenom=&sexe=H&Loisirs=Sport&fonction=Etudiant&submit=submit HTTP/1.1" 200 36
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:11:31:55 +0100] "GET /TP1/ServletTraitement?nom=narwes&prenom=nbis&sexe=F&Loisirs=Sport&fonction=Etudiant&submit=submit HTTP/1.1" 200 46
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:11:32:23 +0100] "GET /TP1/ServletTraitement?nom=narwes&prenom=nbis&sexe=F&Loisirs=Sport&fonction=Etudiant&submit=submit HTTP/1.1" 200 46
+127.0.0.1 - - [10/Oct/2021:11:35:12 +0100] "GET / HTTP/1.1" 404 681
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:11:35:29 +0100] "GET /TP1/ServletTraitement?nom=nawres&prenom=N%27cib&sexe=F&Loisirs=Sport&fonction=Etudiant&submit=submit HTTP/1.1" 200 88
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:11:35:47 +0100] "GET /TP1/ServletTraitement?nom=nawres&prenom=N%27cib&sexe=F&Loisirs=Sport&Loisirs=Voyage&fonction=Etudiant&submit=submit HTTP/1.1" 200 99
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:11:46:39 +0100] "GET /TP1/ServletTraitement?nom=&prenom=&sexe=H&submit=submit HTTP/1.1" 500 40
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:11:47:15 +0100] "GET /TP1/ServletTraitement HTTP/1.1" 500 48
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:11:47:24 +0100] "GET /TP1/ServletTraitement HTTP/1.1" 500 48
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:11:47:35 +0100] "GET /TP1/ServletTraitement?nom=&prenom=&sexe=F&submit=submit HTTP/1.1" 500 40
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:11:47:48 +0100] "GET /TP1/ServletTraitement?nom=sc&prenom=sc&sexe=F&Loisirs=Lecture&Loisirs=Sport&fonction=Enseignant&submit=submit HTTP/1.1" 200 95
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:11:48:28 +0100] "GET /TP1/ServletTraitement?nom=Nawres&prenom=N%27cib&sexe=H&submit=submit HTTP/1.1" 500 51

@@ -1,0 +1,10 @@
+package apprep;
+
+public class mimi {
+
+	public static void main(String[] args) {
+		method m;
+		
+System.out.println(m.rev("abcde"));
+}
+}

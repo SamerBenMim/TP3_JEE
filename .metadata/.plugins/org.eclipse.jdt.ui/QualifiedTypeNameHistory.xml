@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.acme.domain.Order"/>
+    <fullyQualifiedTypeName name="com.acme.utils.MyDate"/>
+    <fullyQualifiedTypeName name="com.acme.domain.liquid"/>
+    <fullyQualifiedTypeName name="java.rmi.RemoteException"/>
+    <fullyQualifiedTypeName name="java.rmi.ServerError"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="web.GestionEtudiant"/>
+    <fullyQualifiedTypeName name="web.Etudiant"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+C:\Users\benmi\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2506849752.index
+\TP3\src\main\java
+C:\Users\benmi\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\542403332.index
+\TP-3\src\main\java
+C:\Users\benmi\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2911006615.index
+\GestionEtudiants\src\main\java
+C:\Users\benmi\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2772548498.index
+\TP-3\src\main\java
+C:\Users\benmi\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2740803261.index
+\GestionEtudiants\src\main\java

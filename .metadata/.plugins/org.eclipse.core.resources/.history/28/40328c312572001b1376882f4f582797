@@ -1,0 +1,11 @@
+package apprep;
+import java.util.*;
+public class mimi {
+
+	public static void main(String[] args) {
+		int i;
+		Scanner sc = new Scanner(System.in)
+				i=sc.nextInt();
+		
+}
+}

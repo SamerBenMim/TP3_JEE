@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Ajouter Etudiant</title>
+</head>
+<body>
+<form method="get" action="GestionEtudiants">
+<input type="text" id="cin" name="cin">CIN
+<input type="text" id="nom" name="nom">Nom
+<input type="text" name="prenom" value="prenom">Prenom
+</form>
+</body>
+</html>

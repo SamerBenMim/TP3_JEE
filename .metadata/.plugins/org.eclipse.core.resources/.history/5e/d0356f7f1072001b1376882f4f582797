@@ -1,0 +1,11 @@
+package apprep;
+
+public class method {
+public String rev(String s) {
+String c="" ;
+for(int i = s.length() ;i>0;i--) {
+	c+=s.charAt(i);
+}
+return c;
+}
+}

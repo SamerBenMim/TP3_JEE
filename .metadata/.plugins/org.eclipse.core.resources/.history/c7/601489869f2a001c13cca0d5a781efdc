@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Identification</title>
+<body>
+<form method="get" action="fs">
+<input type="text" id="id" name="login">Login
+<input type="password" id="colone" name="password">Password
+<input type="submit" name="submit" value="submit">
+</form>
+</body>
+</head>
+<body>
+
+</body>
+</html>

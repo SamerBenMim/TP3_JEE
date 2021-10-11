@@ -1,0 +1,16 @@
+import java.util.ArrayList;
+import java.util.List;
+
+public class GestionEtudiant {
+	public static List<Etudiant> etudiants=new ArrayList<Etudiant>();
+	public void add(Etudiant e)
+	{
+		etudiants.add(e);
+	}
+	public void remove(int cin)
+	{
+		
+	}
+	
+
+}
